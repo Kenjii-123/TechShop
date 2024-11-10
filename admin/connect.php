@@ -11,9 +11,8 @@ $options = array (
 try {
   $db = new PDO($dsn, $user, $pass, $options);
   $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-  echo "Connected successfully";
 }
-  catch(PDOException $e) {
+catch(PDOException $e) {
   echo $e;
 }
 
