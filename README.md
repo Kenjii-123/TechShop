@@ -29,5 +29,5 @@ Techshop hướng tới đối tượng người dùng là những bạn trẻ �
 ## Role 3: ADMIN
  -	Quản lý các tài khoản hệ thống
  -	Quản lý website(sản phẩm, giao dịch)
-#Báo Cáo
+# Báo cáo
  - Báo cáo môn học: [Báo cáo](https://drive.google.com/file/d/1J0RCDwI73sfw8_g7LV23Y7lr1GTKj7a7/view?usp=sharing)
